@@ -9,5 +9,5 @@ Part 2: Movie Recommender
 * Developed a recommender system based on the SVD++ algorithm to predict users’ preferences for unseen movies
 based on their similarity to other users 
 
-* The dataset contains 100,000 ratings (1-5) and 3,600 tag applications applied to 9,000 movies by 600 users. Data Source: https://grouplens.org/datasets/movielens/
+* The dataset contains 100,000 ratings from 1000 users on 1700 movies. Data Source: https://grouplens.org/datasets/movielens/100k/
 
